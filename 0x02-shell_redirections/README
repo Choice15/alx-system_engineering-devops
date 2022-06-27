@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 0-hello_world .md
+=======
+script that prints “Hello, World” >> README .md
+>>>>>>> 98aa84334328627337f577b02644e0995a9a45a3
